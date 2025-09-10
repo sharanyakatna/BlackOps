@@ -33,3 +33,4 @@ venv/
 # Ignore model outputs if you want
 # models/
 
+data/*.csv
