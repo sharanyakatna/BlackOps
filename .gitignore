@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+
+# Data
+data/processed/
+data/raw/*.csv    # optional: only include if you want raw data ignored
+
+# Models
+models/*.pkl
+models/*.cbt
+models/*.json
+
+# Results
+results/*
+
+# IDE / OS files
+*.DS_Store
+.vscode/
+.idea/
+
