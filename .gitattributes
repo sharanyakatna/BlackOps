@@ -1,3 +1,4 @@
 data/upi_transactions_2024_cleaned.csv filter=lfs diff=lfs merge=lfs -text
 models/RandomForest_model.pkl filter=lfs diff=lfs merge=lfs -text
 models/RandomForest.pkl filter=lfs diff=lfs merge=lfs -text
+data/raw/upi_transactions_2024_cleaned.csv filter=lfs diff=lfs merge=lfs -text
